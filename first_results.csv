@@ -1,0 +1,10 @@
+,название файла,количество слов,ср. длина фразы,соотношение слов и знаков препинания,доля вопросительных реплик,доля восклицательных реплик
+0,./corpus/dialog_Litvinovy,1066781,3.38,3.4,0,0
+1,./corpus/dialog_Litvinovy,1066781,3.38,3.4,0,0
+2,./corpus/dialog_Marinina,1622804,3.93,4.01,0,0
+3,./corpus/dialog_Ustinova,1090179,3.41,3.37,0,0
+4,./corpus/author_Polyakova,3285514,4.27,4.21,0,0
+5,./corpus/dialog_Polyakova,1584808,3.53,3.67,0,0
+6,./corpus/author_Ustinova,2247227,4.52,4.36,0,0
+7,./corpus/author_Marinina,3220125,4.85,4.86,0,0
+8,./corpus/author_Litvinovy,2533700,4.5,4.52,0,0
